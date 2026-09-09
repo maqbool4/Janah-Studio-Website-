@@ -1,6 +1,8 @@
 {
-  "name": "Janah Studio",
+  "name": "Remix Janah Studio",
   "description": "Affordable and highly interactive digital solutions including website development, app development, creative AI-powered graphic designs, and professional data entry services.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
